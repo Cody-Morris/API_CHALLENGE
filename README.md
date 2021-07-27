@@ -6,4 +6,4 @@
 
 #### Worked on VacationPy with my group
 
-###Final day of work with a commit and push
+### Final day of work with a commit and push
